@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/nvim-neorg/norgopolis-server.lua/compare/v1.1.1...v1.2.0) (2024-02-16)
+
+
+### Features
+
+* basic readme ([8bd602b](https://github.com/nvim-neorg/norgopolis-server.lua/commit/8bd602b153a8f1d2db6fde54e0c5e50073849137))
+
 ## [1.1.1](https://github.com/nvim-neorg/norgopolis-server.lua/compare/v1.1.0...v1.1.1) (2024-02-16)
 
 
