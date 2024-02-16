@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/nvim-neorg/norgopolis-server.lua/compare/v1.1.0...v1.1.1) (2024-02-16)
+
+
+### Bug Fixes
+
+* invalid path to the template rockspec ([d7cfa7e](https://github.com/nvim-neorg/norgopolis-server.lua/commit/d7cfa7e63fef3aecd4e757d733094852ba7cc2be))
+
 ## [1.1.0](https://github.com/nvim-neorg/norgopolis-server.lua/compare/v1.0.0...v1.1.0) (2024-02-16)
 
 
