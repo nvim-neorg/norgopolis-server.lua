@@ -18,6 +18,7 @@ jobs:
         env:
           LUAROCKS_API_KEY: ${{ secrets.LUAROCKS_API_KEY }}
         with:
+          template: "/norgopolis-template.rockspec"
           version: ${{ env.LUAROCKS_VERSION }}
           test_interpreters: null
           dependencies: |
@@ -27,6 +28,8 @@ jobs:
             rust
             norgopolis
             neorg
+          copy_directories:
+            bin
           detailed_description:
             The Norgopolis server module automatically compiles and exposes a norgopolis-server binary
             which may be invoked from any program using the module as a dependency.
