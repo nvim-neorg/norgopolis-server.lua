@@ -28,10 +28,8 @@ jobs:
             rust
             norgopolis
             neorg
-          copy_directories:
+          copy_directories: |
             bin
           detailed_description:
             The Norgopolis server module automatically compiles and exposes a norgopolis-server binary
             which may be invoked from any program using the module as a dependency.
-
-            The module exposes a function that returns the path to the installed binary.
