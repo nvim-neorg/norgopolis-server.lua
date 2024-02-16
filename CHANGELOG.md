@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.0](https://github.com/nvim-neorg/norgopolis-server.lua/compare/v1.0.0...v1.1.0) (2024-02-16)
+
+
+### Features
+
+* clean up the CI for real now ([2c93452](https://github.com/nvim-neorg/norgopolis-server.lua/commit/2c934527bc727782e20966a81dcdb32bd0ae89bd))
+* move entirely to gh workflows, update dependency requirement ([ec9cd16](https://github.com/nvim-neorg/norgopolis-server.lua/commit/ec9cd16475e141c3e986319a2f78868d0eba6bf8))
+
 ## 1.0.0 (2024-01-03)
 
 
