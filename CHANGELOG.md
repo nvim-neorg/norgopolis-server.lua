@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/nvim-neorg/norgopolis-server.lua/compare/v1.2.0...v1.2.1) (2024-02-17)
+
+
+### Bug Fixes
+
+* use newer version of norgopolis-server ([250cadc](https://github.com/nvim-neorg/norgopolis-server.lua/commit/250cadcd0188d74e950f7435d17859e13131e2fd))
+
 ## [1.2.0](https://github.com/nvim-neorg/norgopolis-server.lua/compare/v1.1.1...v1.2.0) (2024-02-16)
 
 
