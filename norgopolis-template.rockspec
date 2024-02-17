@@ -25,6 +25,6 @@ source = {
 
 build = {
     type = "rust-binary",
-    binary = "norgopolis-server",
+    binary = "norgopolis-server@0.1.1",
     copy_directories = $copy_directories,
 }
